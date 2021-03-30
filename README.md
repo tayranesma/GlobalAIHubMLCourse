@@ -21,4 +21,3 @@ Some python libraries
 
 ### Certification
 ![](img/certificate.pdf)
-
